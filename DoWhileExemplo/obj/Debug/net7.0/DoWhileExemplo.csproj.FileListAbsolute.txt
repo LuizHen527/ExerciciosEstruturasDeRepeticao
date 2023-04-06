@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\bin\Debug\net7.0\DoWhileExemplo.exe
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\bin\Debug\net7.0\DoWhileExemplo.deps.json
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\bin\Debug\net7.0\DoWhileExemplo.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\bin\Debug\net7.0\DoWhileExemplo.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\bin\Debug\net7.0\DoWhileExemplo.pdb
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\refint\DoWhileExemplo.dll
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.pdb
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\DoWhileExemplo.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\EstruturaDeRepeticao\DoWhileExemplo\obj\Debug\net7.0\ref\DoWhileExemplo.dll
